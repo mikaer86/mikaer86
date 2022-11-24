@@ -5,7 +5,8 @@
 ### Current skills: 
 
 ### - HTML5
-### -  CSS (Flexbox, Responsiveness).### - Javascript (DOM manipulation, fetching data).
+### -  CSS (Flexbox, Responsiveness).
+### - Javascript (DOM manipulation, fetching data).
 
 ### Goals: 
 ### - Proficiency in javascript 
