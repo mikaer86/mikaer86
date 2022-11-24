@@ -9,5 +9,6 @@
 ### - Javascript (DOM manipulation, fetching data).
 
 ### Goals: 
+
 ### - Proficiency in javascript 
 ### - Learn React.
