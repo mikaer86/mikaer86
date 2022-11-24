@@ -1,6 +1,6 @@
 ### Hi! My name is Mikael Eriksson.
 
-- I'm currently a 💻 Frontend Developer student at Hyper Island Stockholm 🧑‍🎓.
+- I'm  a 💻 Frontend Developer student at Hyper Island Stockholm 🧑‍🎓.
 
 ### Current skills: 
  - HTML5 ✔️
