@@ -6,7 +6,9 @@
  - HTML5 ✔️
  - CSS (Flexbox, Responsiveness) ✔️
  - Javascript (DOM manipulation, fetching data) ↗️
+ - React
 
-### Goals: 
-- Proficiency in javascript 🥅
-- Learn React 🥅
+### Learning Goals: 
+- Tailwind.js
+- Master PostgreSQL
+
