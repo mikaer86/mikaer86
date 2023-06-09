@@ -7,6 +7,7 @@
  - CSS (Flexbox, Responsiveness) ✔️
  - Javascript (DOM manipulation, fetching data) ↗️
  - React
+ - version control 
 
 ### Learning Goals: 
 - Tailwind.js
