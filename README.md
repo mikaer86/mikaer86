@@ -12,4 +12,5 @@
 ### Learning Goals: 
 - Tailwind.js
 - Master PostgreSQL
+- Three.js
 
