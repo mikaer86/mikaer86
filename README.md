@@ -7,7 +7,7 @@
  - CSS (Flexbox, Responsiveness) ✔️
  - Javascript (DOM manipulation, fetching data) ↗️
  - React
- - Vite
+ - Vite.js
  - version control 
 
 ### Learning Goals: 
