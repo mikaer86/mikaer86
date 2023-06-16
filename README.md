@@ -3,9 +3,9 @@
 - I'm  a 💻 Frontend Developer student at Hyper Island Stockholm 🧑‍🎓.
 
 ### Current skills: 
- - HTML5 ✔️
- - CSS (Flexbox, Responsiveness) ✔️
- - Javascript (DOM manipulation, fetching data) ↗️
+ - HTML5 
+ - CSS  
+ - Javascript 
  - React
  - Vite.js
  - version control 
