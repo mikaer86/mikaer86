@@ -8,10 +8,11 @@
  - Javascript 
  - React
  - Vite.js
- - version control 
+ - version control
+ - Tailwind.js
 
 ### Learning Goals: 
-- Tailwind.js
+
 - Master PostgreSQL
 - Three.js
 
