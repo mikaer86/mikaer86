@@ -11,10 +11,7 @@
  - version control
  - Tailwind.js
 
-### Learning Goals: 
-
-- Master PostgreSQL
-- Three.js
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mikaer86)](https://git.io/streak-stats)
 
 
 
