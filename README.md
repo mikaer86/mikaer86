@@ -9,7 +9,7 @@
  - React
  - Vite.js
  - version control
- - Tailwind
+ - TailwindCSS
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mikaer86)](https://git.io/streak-stats)
 
